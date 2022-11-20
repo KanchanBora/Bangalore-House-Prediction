@@ -23,6 +23,6 @@ Next then we apply a one hot encoding to convert a categorical feature into nume
 Now concate dummies data set with our final data set and remove a “other” column from “dummies” data set. 
 Test the model using the testing data set and after testing you can see our model predicts below values and you can also see the actual values. 
 
-Changes for better accuracy:
+Changes for better accuracy: Under Dimensionality Reduction 
 
 ANY LOCATION HAVING LESS THAN 12 DATA PINTS WILL BE TAGGED AS "OTHER" LOCATION. THIS WAY NUMBER OF CATEGORIES WERE REDUCED BY HUGE AMOUNT. LATER ON WHEN WE DO ONE HOT ENCODING, IT WILL HELP US WITH HAVING FEWER DUMMY COLUMNS.
