@@ -1,6 +1,6 @@
 # Bangalore-House-Prediction
 
-Initially i modified the null values in the corpus using the mean of values as
+Initially i modified the null values in the corpus using the mean of values as follows
  ![image](https://user-images.githubusercontent.com/108566907/203056846-67d3d01d-6152-481c-b9e1-c5b28027aaa6.png)
 
 
