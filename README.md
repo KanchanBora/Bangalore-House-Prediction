@@ -13,7 +13,7 @@ next extracted all location less than 10 in number under single unit as other
  
 ![image](https://user-images.githubusercontent.com/108566907/203057387-ceb3d432-947e-4fca-a138-3d8c359886d4.png)
 
-Previously the accuracy was 84.52 and later it got modified to 86.29.
+Previously the accuracy was 84.52 and later it got modified as 86.29.
  
  ![image](https://user-images.githubusercontent.com/108566907/203057414-8f4812eb-1fc6-4dee-bd71-200cfe5e3c1d.png)
 ![image](https://user-images.githubusercontent.com/108566907/203057447-649422eb-c9e1-4b8e-9b83-c001d077cc56.png)
